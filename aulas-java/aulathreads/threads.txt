@@ -1,0 +1,7 @@
+Sao fluxos de execucao dentro de um mesmo processo
+
+Concorrencia -> Multiplas tarefas progridem em intervalos de tempo sobreposto, mesmo em uma unica CPU
+
+Parelelismo -> Duas ou mais tarefas executam efetivamente ao mesmo tempo
+
+Threads -> Compartilham memoria, o que facilita a comunicacao, mas exige um cuidado com estado mutavel compartilhado
